@@ -16,6 +16,6 @@ step 3:
 	
         # for the result of PINNs, please run python LSN.py while parameter "lambda_con = 0".
 	
-	# for the result of LPS, please run python LPS.py.
+		# for the result of LPS, please run python LPS.py.
 	
         
