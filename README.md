@@ -1,2 +1,3 @@
 # LSN_code
- Lie Symmetry Net
+
+The repository contains the source code of our Lie Symmetry Net.
