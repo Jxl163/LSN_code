@@ -6,7 +6,7 @@ step 1: install pytorch
 
 	conda install pytorch==1.13.1 torchvision==0.14.1 torchaudio==0.13.1 pytorch-cuda=11.7 -c pytorch -c nvidia
 	
-step 2: install pyODE	
+step 2: install pyDOE	
    
         pip install pyDOE
         
