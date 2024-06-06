@@ -8,10 +8,12 @@ step 1: install pytorch
 	
 step 2: install pyODE	
    
-        pip install pyODE
+        pip install pyDOE
         
 step 3:
         
         python LSN.py
-        # for the result of PINNs, please run python PINN_base.py
+        # for the result of PINNs, please run python LSN.py while parameter "lambda_con = 0".
+	# for the result of LPS, please run python LPS.py.
+	
         
