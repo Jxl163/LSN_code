@@ -8,6 +8,8 @@ The repository contains the source code of our Lie Symmetry Net.
 
 For task start run this command from repository root directory:
 
+'''
 python LSN.py 
+'''
 
 
