@@ -1,4 +1,4 @@
-# Lie Symmetry Net (LSN)
+# LSN: Preserving conservation Laws in Modelling Financial Market Dynamics via Stochastic Differential Equations
 
 The repository contains the source code of our Lie Symmetry Net.
 
