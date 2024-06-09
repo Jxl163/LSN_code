@@ -4,18 +4,10 @@ This paper employs a novel Lie symmetry-based framework to model the intrinsic s
 
 The repository contains the source code of our Lie Symmetry Net.
 
-Step 1: install pytorch
+## Run
 
-	conda install pytorch==1.13.1 torchvision==0.14.1 torchaudio==0.13.1 pytorch-cuda=11.7 -c pytorch -c nvidia
-	
-Step 2: install pyDOE	
-   
-        pip install pyDOE
-        
-Step 3:
-        
-        python LSN.py
-	
-        # for the result of PINNs, please run python LSN.py while parameter "lambda_con = 0"; for the result of LPS, please run python LPS.py.
-	
-        
+For task start run this command from repository root directory:
+
+python LSN.py 
+
+
