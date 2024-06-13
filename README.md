@@ -1,4 +1,4 @@
-# LSN: Preserving conservation Laws in Modelling Financial Market Dynamics via Stochastic Differential Equations
+# LSN: Preserving Conservation Laws in Modelling Financial Market Dynamics via  Differential Equations
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
