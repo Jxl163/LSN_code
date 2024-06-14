@@ -1,10 +1,14 @@
-<img src="Figures/Drawing27.pdf" width="50%">
+
 # LSN: Preserving Conservation Laws in Modelling Financial Market Dynamics via  Differential Equations
-<img src=Figures/Drawing27.pdf width=400 height=300 />
-<img src=https://github.com/Jxl163/LSN_code/blob/main/Figures/Drawing27.pdf width=400 height=300 />
 
-[![RUNOOB](https://github.com/Jxl163/LSN_code/blob/main/Figures/Drawing27.pdf)](LICENSE)
+<img src="Figures/Drawing27.pdf" width="60%">
+  
+<img src=Figures/Drawing27.pdf width=400 height=300 >
 
+<img src=https://github.com/Jxl163/LSN_code/blob/main/Figures/Drawing27.pdf width=400 height=300 >
+
+
+[![License: MIT](https://github.com/Jxl163/LSN_code/blob/main/Figures/Drawing27.pdf)](LICENSE)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 This paper employs a novel Lie symmetry-based framework to model the intrinsic symmetries within financial market. More details can be found in the paper.
