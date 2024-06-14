@@ -1,3 +1,4 @@
+<img src="Figures/Drawing27.pdf" width="50%">
 # LSN: Preserving Conservation Laws in Modelling Financial Market Dynamics via  Differential Equations
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
