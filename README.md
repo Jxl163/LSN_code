@@ -3,8 +3,8 @@
 
 <!-- <img src="Figures/Drawing27.pdf" width="60%"> -->
 <!-- <img src=Figures/Drawing27.pdf width=400 height=300 > -->
-<img src=https://github.com/Jxl163/LSN_code/blob/main/Figures/Drawing27.pdf width=400 height=300 >
 
+<!-- <img src="fig2_mini_r_011_sigma_04.eps" width="60%"> -->
 
 
 
