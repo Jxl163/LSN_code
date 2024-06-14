@@ -1,7 +1,8 @@
 
 # LSN: Preserving Conservation Laws in Modelling Financial Market Dynamics via  Differential Equations
 
-<!-- <img src="Figures/Drawing27.pdf" width="60%"> -->
+<img src="aa1.jpeg" width="60%">
+<!-- <img src="aa1.jpeg" width="60%"> -->
 <!-- <img src=Figures/Drawing27.pdf width=400 height=300 > -->
 
 <!-- <img src="fig2_mini_r_011_sigma_04.eps" width="60%"> -->
