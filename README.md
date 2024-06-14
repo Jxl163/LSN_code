@@ -24,16 +24,14 @@ This paper employs a novel Lie symmetry-based framework to model the intrinsic s
 ## Installation
 
 ```
-from torch.optim.lr_scheduler import StepLR
-from torch.autograd import grad
-import math, torch, time, os
-import torch.nn as nn
-import numpy as np
-import argparse
-import random
-from torch.distributions import Normal
-import torch.nn.functional as F
-from pyDOE import lhs
+Step 1: install pytorch
+
+ conda install pytorch==1.13.1 torchvision==0.14.1 torchaudio==0.13.1 pytorch-cuda=11.7 -c pytorch -c nvidia
+ 
+Step 2: install pyDOE 
+   
+        pip install pyDOE
+
 ```
 ## Model
 
