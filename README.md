@@ -3,7 +3,7 @@
 
 <!-- <img src="Figures/Drawing27.pdf" width="60%"> -->
 <!-- <img src=Figures/Drawing27.pdf width=400 height=300 > -->
-<!-- <img src=https://github.com/Jxl163/LSN_code/blob/main/Figures/Drawing27.pdf width=400 height=300 > -->
+<img src=https://github.com/Jxl163/LSN_code/blob/main/Figures/Drawing27.pdf width=400 height=300 >
 
 
 
