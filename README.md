@@ -14,9 +14,12 @@
 ![](https://img.shields.io/badge/pytorch-1.13.1-red)
 ![](https://img.shields.io/badge/cuda-11.7-blue)
 
+
 This paper employs a novel Lie symmetry-based framework to model the intrinsic symmetries within financial market. More details can be found in the paper.
 
-The repository contains the source code of our Lie Symmetry Net.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=The+repository+contains+the;source+code+of+our+LSN!)](https://git.io/typing-svg)
+
+
 
 ## Installation
 
