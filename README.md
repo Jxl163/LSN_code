@@ -30,7 +30,7 @@ Step 1: install pytorch
  
 Step 2: install pyDOE 
    
-        pip install pyDOE
+ pip install pyDOE
 
 ```
 ## Model
