@@ -11,6 +11,8 @@
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![](https://img.shields.io/badge/pytorch-1.13.1-red)
+![](https://img.shields.io/badge/cuda-11.7-blue)
 
 This paper employs a novel Lie symmetry-based framework to model the intrinsic symmetries within financial market. More details can be found in the paper.
 
