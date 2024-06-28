@@ -11,6 +11,7 @@
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![arXiv](https://img.shields.io/badge/arXiv-2406.09189-b31b1b.svg)](https://arxiv.org/abs/2406.09189)
 ![](https://img.shields.io/badge/pytorch-1.13.1-red)
 ![](https://img.shields.io/badge/cuda-11.7-blue)
 
@@ -45,4 +46,16 @@ For task start run this command from repository root directory:
 python LSN.py 
 ```
 
+## Citation
+
+Please consider citing our paper if you find this repo useful in your work.
+
+```
+@article{jiang2024lie,
+  title={Lie Symmetry Net: Preserving Conservation Laws in Modelling Financial Market Dynamics via Differential Equations},
+  author={Jiang, Xuelian and Zhu, Tongtian and Wang, Can and Xu, Yingxiang and He, Fengxiang},
+  journal={arXiv preprint arXiv:2406.09189},
+  year={2024}
+}
+```
 
