@@ -1,5 +1,5 @@
 ## This repository contains the code for the paper:
-# " LSN: Preserving Conservation Laws in Modelling Financial Market Dynamics via  Differential Equations"
+# "LSN: Preserving Conservation Laws in Modelling Financial Market Dynamics via  Differential Equations"
 
 
 <!-- <img src="aa1.jpeg" width="60%"> -->
