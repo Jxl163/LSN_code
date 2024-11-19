@@ -43,7 +43,7 @@ For task start run this command from repository root directory:
 python LSN.py 
 ```
 
-## Citation
+<!--## Citation
 
 Please consider citing our paper if you find this repo useful in your work.
 
@@ -54,5 +54,5 @@ Please consider citing our paper if you find this repo useful in your work.
   journal={arXiv preprint arXiv:2406.09189},
   year={2024}
 }
-```
+```-->
 
