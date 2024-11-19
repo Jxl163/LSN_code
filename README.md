@@ -9,9 +9,10 @@
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-<!--[![arXiv](https://img.shields.io/badge/arXiv-2406.09189-b31b1b.svg)](https://arxiv.org/abs/2406.09189)-->
 ![](https://img.shields.io/badge/pytorch-1.13.1-red)
 ![](https://img.shields.io/badge/cuda-11.7-blue)
+
+<!--[![arXiv](https://img.shields.io/badge/arXiv-2406.09189-b31b1b.svg)](https://arxiv.org/abs/2406.09189)-->
 
 
 This paper introduce LSN, a symmetry-aware approach that addresses a fundamental challenge in AI-driven SDE solvers: ensuring AI models can learn and preserve intrinsic symmetries from data. By incorporating Lie symmetry principles, **LSN achieves a significant reduction in test error—over an order of magnitude—compared to state-of-the-art AI-driven methods**. The framework is not limited to specific equations or methods but provides a universal solution that can be applied across various AI-driven differential equation solvers.
