@@ -1,4 +1,5 @@
-# LSN: Preserving Conservation Laws in Modelling Financial Market Dynamics via  Differential Equations
+## This repository contains the code for the paper :
+# " LSN: Preserving Conservation Laws in Modelling Financial Market Dynamics via  Differential Equations"
 
 
 <!-- <img src="aa1.jpeg" width="60%"> -->
@@ -8,7 +9,7 @@
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![arXiv](https://img.shields.io/badge/arXiv-2406.09189-b31b1b.svg)](https://arxiv.org/abs/2406.09189)
+<!--[![arXiv](https://img.shields.io/badge/arXiv-2406.09189-b31b1b.svg)](https://arxiv.org/abs/2406.09189)-->
 ![](https://img.shields.io/badge/pytorch-1.13.1-red)
 ![](https://img.shields.io/badge/cuda-11.7-blue)
 
@@ -35,9 +36,9 @@ Step 2: install pyDOE
 
 <img src="Figures/Drawing27.jpg" width="100%">
 
-## Run
+## Usage
 
-For task start run this command from repository root directory:
+<!--For task start run this command from repository root directory:-->
 
 ```
 python LSN.py 
